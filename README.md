@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-dos-santos-barros-a551a0282/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Contato-0A66C2?style=for-the-badge"></a>
-  <a href="https://github.com/Taique66/homelab-infrastructure"><img alt="Conheça meu homelab" src="https://img.shields.io/badge/Portf%C3%B3lio-Homelab-238636?style=for-the-badge"></a>
-  <a href="https://github.com/Taique66/python-it-support-toolkit"><img alt="Projeto Python em desenvolvimento" src="https://img.shields.io/badge/Python-Em%20desenvolvimento-3776AB?style=for-the-badge"></a>
+  <a href="https://github.com/guilhermesantosbarros/homelab-infrastructure"><img alt="Conheça meu homelab" src="https://img.shields.io/badge/Portf%C3%B3lio-Homelab-238636?style=for-the-badge"></a>
+  <a href="https://github.com/guilhermesantosbarros/python-it-support-toolkit"><img alt="Projeto Python em desenvolvimento" src="https://img.shields.io/badge/Python-Em%20desenvolvimento-3776AB?style=for-the-badge"></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Aprendo construindo laboratórios, testando serviços e documentando os problema
 
 ## 📂 Projetos em destaque
 
-### 🌐 [Homelab de infraestrutura](https://github.com/Taique66/homelab-infrastructure)
+### 🌐 [Homelab de infraestrutura](https://github.com/guilhermesantosbarros/homelab-infrastructure)
 
 **Primeira versão concluída e documentada.** Laboratório local com CachyOS, Ubuntu Server e Windows 11, usando KVM/QEMU e libvirt.
 
@@ -72,9 +72,9 @@ Aprendo construindo laboratórios, testando serviços e documentando os problema
 - **Backup:** cópia da página HTML, validação por SHA-256, transferência ao host e restauração local testada.
 - **Monitoramento:** script Bash que detectou a interrupção e a recuperação do site, com alertas no terminal.
 
-[Documentação, script e evidências →](https://github.com/Taique66/homelab-infrastructure)
+[Documentação, script e evidências →](https://github.com/guilhermesantosbarros/homelab-infrastructure)
 
-### 🐍 [Python IT Support Toolkit](https://github.com/Taique66/python-it-support-toolkit)
+### 🐍 [Python IT Support Toolkit](https://github.com/guilhermesantosbarros/python-it-support-toolkit)
 
 **Em desenvolvimento.** Ferramenta de terminal para praticar diagnóstico de sistemas e automação de tarefas de suporte.
 
@@ -85,7 +85,7 @@ Aprendo construindo laboratórios, testando serviços e documentando os problema
 
 Desenvolvido por etapas com `platform`, `psutil`, `shutil` e `os`, praticando funções, dicionários e controle de versão com Git.
 
-[Código e evolução do projeto →](https://github.com/Taique66/python-it-support-toolkit)
+[Código e evolução do projeto →](https://github.com/guilhermesantosbarros/python-it-support-toolkit)
 
 ---
 
